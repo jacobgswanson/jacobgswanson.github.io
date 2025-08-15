@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-made-by-money-politics-economy-and-the-self-in-capitalist-modernity",
+          title: 'Made by Money: Politics, Economy, and the Self in Capitalist Modernity',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
