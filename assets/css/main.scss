@@ -34,3 +34,22 @@ $max-content-width: {{ site.max_width }};
   color: #003d80; /* darker blue on hover */
   text-decoration: underline;
 }
+
+/* Responsive CV viewer */
+.cv-embed iframe {
+  width: 100%;
+  height: 85vh;  /* tall on desktop */
+  border: 0;
+}
+
+@media (max-width: 1024px) {
+  .cv-embed iframe { height: 80vh; }
+}
+@media (max-width: 640px) {
+  .cv-embed iframe { height: 70vh; } /* shorter on phones */
+}
+
+.cv-fallback {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
