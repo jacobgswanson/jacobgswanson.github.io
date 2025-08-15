@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Made by Money: Politics, Economy, and the Self in Capitalist Modernity
+title: "Made by Money: Politics, Economy, and the Self in Capitalist Modernity"
 description: with background image
-img: Haring2.jpg
+img: /assets/img/Haring2.jpg
 importance: 1
 category: work
 related_publications: true
