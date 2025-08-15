@@ -9,7 +9,7 @@ profile:
   image: Jake.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>125 West 125th Street, 3FL</p>
+    <p>605 West 125th Street, 3FL</p>
     <p>New York City, New York 10027</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
