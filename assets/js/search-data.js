@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses taught at Georgetown University, Cornell University, and Belmont Abbey College.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
