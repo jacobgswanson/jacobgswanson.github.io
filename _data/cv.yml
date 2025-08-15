@@ -1,97 +1,178 @@
-- title: General Information
+cv_pdf: /assets/files/Swanson_CV.pdf
+
+- title: "Contact Information"
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Columbia University
+      value: "Center for Political Economy, 605 West 125th Street, 3FL, New York, NY 10027"
+    - name: phone
+      value: "704.830.8420"
+    - name: email
+      value: "js6978@columbia.edu"
+    - name: website
+      value: "https://jacobgswanson.github.io/"
 
-- title: Education
+- title: "Academic Appointments"
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: "Postdoctoral Research Scholar, Center for Political Economy"
+      institution: Columbia University, New York, NY
+      year: "2025–present"
+      description: >
+        [politicaleconomy.columbia.edu/directory/jacob-swanson](https://politicaleconomy.columbia.edu/directory/jacob-swanson)
+    - title: "Adjunct Professor, Department of Government"
+      institution: Georgetown University, Washington, DC
+      year: "2023–2025"
+    - title: "Postdoctoral Associate, Department of Government"
+      institution: Cornell University, Ithaca, NY
+      year: "2023–2024"
 
-- title: Experience
+- title: "Professional Research Experience"
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: "Social Scientist & Civil Rights Analyst"
+      institution: United States Commission on Civil Rights, Washington, DC
+      year: "2024–2025"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: "Education"
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Ph.D., Government"
+      institution: Cornell University, Ithaca, NY
+      year: "December 2022"
+      description: |
+        *Examination Fields:* Political Theory (major), American Politics (minor)  
+        *Committee:* Jill Frank (chair), Patchen Markell, Aziz Rana, Jason Frank
+    - title: "M.A., Government"
+      institution: Cornell University, Ithaca, NY
+      year: "May 2017"
+    - title: "Exchange Scholar, Department of Government"
+      institution: Harvard University, Cambridge, MA
+      year: "2020–2022"
+    - title: "M.A., Social Sciences"
+      institution: University of Chicago, Chicago, IL
+      year: "2013"
+    - title: "B.A., English Literature and History"
+      institution: Asbury University, Wilmore, KY
+      year: "2009"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: "Book Project"
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Made by Money: Politics, Economics, and the Self in Capitalist Modernity"
+
+- title: "Publications"
+  type: list
+  contents:
+    - "Swanson, Jacob, and Mary Fainsod Katzenstein. 'From the Battlefield to Behind Bars: Rethinking the Relationship Between the Military and Prison Industrial Complexes.' *Daedalus* (forthcoming 2025)."
+    - "Swanson, Jacob. (2023). ['Beyond Governance and Prevention: On the Use(s) of Aristotle for Theorizing Money's Politics.'](https://doi.org/10.1177/00905917231204891) *Political Theory* 52(4): 605–630."
+    - "Swanson, Jacob, and Mary Fainsod Katzenstein. (2021). ['Turning Over the Keys: Public Prisons, Private Equity, and the Normalization of Markets Behind Bars.'](https://doi.org/10.1017/S1537592721002218) *Perspectives on Politics* 19(4): 1247–1257."
+    - "Swanson, Jacob. (2021). ['The Use of Money in Society: Friedrich Hayek's Social Work.'](https://doi.org/10.1177/0090591720980472) *Political Theory* 49(5): 801–827."
+    - "Katzenstein, Mary Fainsod, Nolan Bennett, and Jacob Swanson. (2020). ['Alabama is US: Concealed Fines in Jails and Prisons.'](https://escholarship.org/uc/item/7cg3q309) *UCLA Criminal Justice Law Review*, Volume 4."
+
+- title: "Working Papers"
+  type: list
+  contents:
+    - "Katzenstein, Peter J., and Jacob Swanson. 'Para-humanism and Uncertainty: Anthropocene and Artificial Intelligence.' *Diacritics* (under review)."
+    - "'Hamilton's Debt: On the Ideological Origins of Public Credit and Private Credit Markets'"
+    - "\"We Are Part of the Nature We Seek to Understand\": Karen Barad and the Politics of Self-Observation"
+
+- title: "Grants, Awards and Fellowships"
+  type: time_table
+  contents:
+    - title: "Carpenter Fellowship"
+      institution: Department of Government, Cornell University
+      year: "2021–2022"
+    - title: "Sage Fellowship"
+      institution: College of Arts and Sciences, Cornell University
+      year: "2020–2022"
+    - title: "Michele Sicca Research Grant"
+      institution: Cornell Institute for European Studies
+      year: "2017"
+    - title: "Supplemental Departmental Funding for Summer Research"
+      institution: Department of Government, Cornell University
+      year: "2017"
+    - title: "International Research Travel Grant"
+      institution: Mario Einaudi Center for International Studies
+      year: "2017"
+    - title: "Adam Smith Fellowship"
+      institution: The Mercatus Center at George Mason University
+      year: "2016–2017"
+    - title: "Best Paper Award for Second-Year Graduate Students"
+      institution: Department of Government, Cornell University
+      year: "2016"
+      description: "‘Reporting and Rendering: Constituting Monetary and Political Orders in Alexander Hamilton’s “Report on Public Credit”’"
+    - title: "Graduate Reading Group Grant"
+      institution: Institute for Comparative Modernities, Cornell University
+      year: "2015–2017"
+    - title: "Brett de Bary Interdisciplinary Mellon Writing Group Grant"
+      institution: Society for the Humanities, Cornell University
+      year: "2015–2016"
+    - title: "Sage Fellowship"
+      institution: College of Arts and Sciences, Cornell University
+      year: "2014–2015"
+
+- title: "Teaching Experience"
+  type: time_table
+  contents:
+    - title: "Adjunct Professor"
+      institution: Department of Government, Georgetown University
+      year: "2023–2025"
+      description: |
+        GOVT 4816 The Politics of Race and Capitalism  
+        GOVT 3828 Can't Pay, Won't Pay: The Politics of Debt
+    - title: "Instructor"
+      institution: Department of Government, Cornell University
+      year: "2017, 2018"
+      description: |
+        GOVT 1101 Power and Politics: Just Words? Writings About Justice and Inequality (First-Year Writing Seminar)
+    - title: "Teaching Assistant"
+      institution: Department of Government, Cornell University
+      year: "2015–2022"
+      description: |
+        GOVT 1111 Introduction to American Politics  
+        GOVT 3012 The Politics of Poverty in the U.S  
+        GOVT 3032 The Politics of Public Policy in the U.S  
+        GOVT 3082 American Political Campaigns  
+        GOVT 3112 The U.S. Congress and the Legislative Process  
+        GOVT 3141 Prisons
+    - title: "Adjunct Instructor"
+      institution: Belmont Abbey College, Charlotte, NC
+      year: "2014"
+      description: |
+        PO211 Classic Texts I: Ancient and Medieval  
+        PO212 Classic Texts II: Renaissance and Modern
+
+- title: "Conferences and Workshops"
+  type: list
+  contents:
+    - "Politics, Sandwiches, and Comments Workshop, Cornell University (2020)"
+    - "American Political Science Association Annual Meeting (2019, 2020)"
+    - "Association for Political Theory Annual Conference (2018, 2020)"
+    - "The Political Theory Workshop, Cornell University (2019)"
+    - "Histories of Capitalism 2.0, Cornell University (2017)"
+
+- title: "Academic Service"
+  type: time_table
+  contents:
+    - title: "Graduate Editorial Board Member"
+      institution: *Diacritics*
+      year: "2021–2022"
+    - title: "Graduate Student Coordinator, Political Theory Workshop"
+      institution: Department of Government, Cornell University
+      year: "2017–2018"
+
+- title: "Research Experience"
+  type: time_table
+  contents:
+    - title: "Research Assistant"
+      institution: Department of Government, Cornell University
+      year: "2019–2021"
+      description: "Prof. Alexander Livingston, for edited volume of James Tully's essays (Routledge 2022)"
+
+- title: "Skills"
+  type: list
+  contents:
+    - "Languages: French (reading), Spanish (intermediate)"
+    - "Technical: Applied AI tools for research and writing; prompt design; workflow optimization"
+    - "Pedagogical: Teaching on AI, human–AI ethics, and AI in educational practice"
