@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: "CV"
 nav: true
@@ -11,10 +11,6 @@ nav_order: 5
 </p>
 
 <style>
-a {
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
 </style>
