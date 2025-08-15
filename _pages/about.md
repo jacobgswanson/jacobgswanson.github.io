@@ -22,8 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I'm a political theorist who writes about political economy, democracy, and social theory. My book project and much of my recent work focus on the politics of money. Other research looks at the intersection of finance, mass incarceration, race, and gender.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Some of this work has been published in [*Political Theory*](https://doi.org/10.1177/00905917231204891) ([also here](https://doi.org/10.1177/0090591720980472)), *Daedalus* (forthcoming), [*Perspectives on Politics*](https://doi.org/10.1017/S1537592721002218), and the [*UCLA Criminal Justice Law Review*](https://escholarship.org/uc/item/7cg3q309).
