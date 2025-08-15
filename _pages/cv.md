@@ -19,4 +19,3 @@ toc:
   If the viewer doesn’t load on your device,
   <a href="{{ '/assets/files/Swanson_CV.pdf' | relative_url }}" target="_blank" rel="noopener">open the PDF in a new tab</a>.
 </p>
-
