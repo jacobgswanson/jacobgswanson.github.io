@@ -1,178 +1,141 @@
-cv_pdf: /assets/files/Swanson_CV.pdf
+name: Jacob Swanson
+contact:
+  - institution: Columbia University
+    department: Center for Political Economy
+    address: "605 West 125th Street, 3FL, New York, NY 10027"
+    phone: "704.830.8420"
+    email: "js6978@columbia.edu"
+    website: "https://jacobgswanson.github.io/"
 
-- title: "Contact Information"
-  type: map
-  contents:
-    - name: Columbia University
-      value: "Center for Political Economy, 605 West 125th Street, 3FL, New York, NY 10027"
-    - name: phone
-      value: "704.830.8420"
-    - name: email
-      value: "js6978@columbia.edu"
-    - name: website
-      value: "https://jacobgswanson.github.io/"
+academic_appointments:
+  - title: "Postdoctoral Research Scholar, Center for Political Economy"
+    institution: "Columbia University"
+    location: "New York, NY"
+    years: "2025–present"
+  - title: "Adjunct Professor, Department of Government"
+    institution: "Georgetown University"
+    location: "Washington, DC"
+    years: "2023–2025"
+  - title: "Postdoctoral Associate, Department of Government"
+    institution: "Cornell University"
+    location: "Ithaca, NY"
+    years: "2023–2024"
 
-- title: "Academic Appointments"
-  type: time_table
-  contents:
-    - title: "Postdoctoral Research Scholar, Center for Political Economy"
-      institution: Columbia University, New York, NY
-      year: "2025–present"
-      description: >
-        [politicaleconomy.columbia.edu/directory/jacob-swanson](https://politicaleconomy.columbia.edu/directory/jacob-swanson)
-    - title: "Adjunct Professor, Department of Government"
-      institution: Georgetown University, Washington, DC
-      year: "2023–2025"
-    - title: "Postdoctoral Associate, Department of Government"
-      institution: Cornell University, Ithaca, NY
-      year: "2023–2024"
+professional_research_experience:
+  - title: "Social Scientist & Civil Rights Analyst"
+    institution: "United States Commission on Civil Rights"
+    location: "Washington, DC"
+    years: "2024–2025"
 
-- title: "Professional Research Experience"
-  type: time_table
-  contents:
-    - title: "Social Scientist & Civil Rights Analyst"
-      institution: United States Commission on Civil Rights, Washington, DC
-      year: "2024–2025"
+education:
+  - degree: "Ph.D., Government"
+    institution: "Cornell University"
+    location: "Ithaca, NY"
+    year: "December 2022"
+    notes: 
+      - "Examination Fields: Political Theory (major), American Politics (minor)"
+      - "Committee: Jill Frank (chair), Patchen Markell, Aziz Rana, Jason Frank"
+  - degree: "M.A., Government"
+    institution: "Cornell University"
+    location: "Ithaca, NY"
+    year: "May 2017"
+  - degree: "Exchange Scholar, Department of Government"
+    institution: "Harvard University"
+    location: "Cambridge, MA"
+    years: "2020–2022"
+  - degree: "M.A., Social Sciences"
+    institution: "University of Chicago"
+    location: "Chicago, IL"
+    year: "2013"
+  - degree: "B.A., English Literature and History"
+    institution: "Asbury University"
+    location: "Wilmore, KY"
+    year: "2009"
 
-- title: "Education"
-  type: time_table
-  contents:
-    - title: "Ph.D., Government"
-      institution: Cornell University, Ithaca, NY
-      year: "December 2022"
-      description: |
-        *Examination Fields:* Political Theory (major), American Politics (minor)  
-        *Committee:* Jill Frank (chair), Patchen Markell, Aziz Rana, Jason Frank
-    - title: "M.A., Government"
-      institution: Cornell University, Ithaca, NY
-      year: "May 2017"
-    - title: "Exchange Scholar, Department of Government"
-      institution: Harvard University, Cambridge, MA
-      year: "2020–2022"
-    - title: "M.A., Social Sciences"
-      institution: University of Chicago, Chicago, IL
-      year: "2013"
-    - title: "B.A., English Literature and History"
-      institution: Asbury University, Wilmore, KY
-      year: "2009"
+book_project:
+  - title: "Made by Money: Politics, Economics, and the Self in Capitalist Modernity"
 
-- title: "Book Project"
-  type: list
-  contents:
-    - "Made by Money: Politics, Economics, and the Self in Capitalist Modernity"
+publications:
+  - authors: "Swanson, Jacob, and Mary Fainsod Katzenstein"
+    title: "From the Battlefield to Behind Bars: Rethinking the Relationship Between the Military and Prison Industrial Complexes"
+    journal: "Daedalus"
+    status: "forthcoming 2025"
+  - authors: "Swanson, Jacob"
+    title: "Beyond Governance and Prevention: On the Use(s) of Aristotle for Theorizing Money's Politics"
+    journal: "Political Theory"
+    year: "2023"
+    volume_issue: "52(4)"
+    pages: "605–630"
+    doi: "https://doi.org/10.1177/00905917231204891"
+  - authors: "Swanson, Jacob, and Mary Fainsod Katzenstein"
+    title: "Turning Over the Keys: Public Prisons, Private Equity, and the Normalization of Markets Behind Bars"
+    journal: "Perspectives on Politics"
+    year: "2021"
+    volume_issue: "19(4)"
+    pages: "1247–1257"
+    doi: "https://doi.org/10.1017/S1537592721002218"
+  - authors: "Swanson, Jacob"
+    title: "The Use of Money in Society: Friedrich Hayek's Social Work"
+    journal: "Political Theory"
+    year: "2021"
+    volume_issue: "49(5)"
+    pages: "801–827"
+    doi: "https://doi.org/10.1177/0090591720980472"
+  - authors: "Katzenstein, Mary Fainsod, Nolan Bennett, and Jacob Swanson"
+    title: "Alabama is US: Concealed Fines in Jails and Prisons"
+    journal: "UCLA Criminal Justice Law Review"
+    year: "2020"
+    volume: "4"
+    url: "https://escholarship.org/uc/item/7cg3q309"
 
-- title: "Publications"
-  type: list
-  contents:
-    - "Swanson, Jacob, and Mary Fainsod Katzenstein. 'From the Battlefield to Behind Bars: Rethinking the Relationship Between the Military and Prison Industrial Complexes.' *Daedalus* (forthcoming 2025)."
-    - "Swanson, Jacob. (2023). ['Beyond Governance and Prevention: On the Use(s) of Aristotle for Theorizing Money's Politics.'](https://doi.org/10.1177/00905917231204891) *Political Theory* 52(4): 605–630."
-    - "Swanson, Jacob, and Mary Fainsod Katzenstein. (2021). ['Turning Over the Keys: Public Prisons, Private Equity, and the Normalization of Markets Behind Bars.'](https://doi.org/10.1017/S1537592721002218) *Perspectives on Politics* 19(4): 1247–1257."
-    - "Swanson, Jacob. (2021). ['The Use of Money in Society: Friedrich Hayek's Social Work.'](https://doi.org/10.1177/0090591720980472) *Political Theory* 49(5): 801–827."
-    - "Katzenstein, Mary Fainsod, Nolan Bennett, and Jacob Swanson. (2020). ['Alabama is US: Concealed Fines in Jails and Prisons.'](https://escholarship.org/uc/item/7cg3q309) *UCLA Criminal Justice Law Review*, Volume 4."
+working_papers:
+  - authors: "Katzenstein, Peter J., and Jacob Swanson"
+    title: "Para-humanism and Uncertainty: Anthropocene and Artificial Intelligence"
+    journal: "Diacritics"
+    status: "under review"
+  - title: "Hamilton's Debt: On the Ideological Origins of Public Credit and Private Credit Markets"
+  - title: "We Are Part of the Nature We Seek to Understand: Karen Barad and the Politics of Self-Observation"
 
-- title: "Working Papers"
-  type: list
-  contents:
-    - "Katzenstein, Peter J., and Jacob Swanson. 'Para-humanism and Uncertainty: Anthropocene and Artificial Intelligence.' *Diacritics* (under review)."
-    - "'Hamilton's Debt: On the Ideological Origins of Public Credit and Private Credit Markets'"
-    - "\"We Are Part of the Nature We Seek to Understand\": Karen Barad and the Politics of Self-Observation"
+grants_awards_fellowships:
+  - name: "Carpenter Fellowship"
+    years: "2021–2022"
+    institution: "Department of Government, Cornell University"
+  - name: "Sage Fellowship"
+    years: "2020–2022"
+    institution: "College of Arts and Sciences, Cornell University"
+  - name: "Michele Sicca Research Grant"
+    year: "2017"
+    institution: "Cornell Institute for European Studies"
+  - name: "Supplemental Departmental Funding for Summer Research"
+    year: "2017"
+    institution: "Department of Government, Cornell University"
+  - name: "International Research Travel Grant"
+    year: "2017"
+    institution: "Mario Einaudi Center for International Studies"
+  - name: "Adam Smith Fellowship"
+    years: "2016–2017"
+    institution: "The Mercatus Center at George Mason University"
+  - name: "Best Paper Award for Second-Year Graduate Students"
+    year: "2016"
+    title: "Reporting and Rendering: Constituting Monetary and Political Orders in Alexander Hamilton’s Report on Public Credit"
+    institution: "Department of Government, Cornell University"
+  - name: "Graduate Reading Group Grant"
+    years: "2015–2017"
+    institution: "Institute for Comparative Modernities, Cornell University"
+  - name: "Brett de Bary Interdisciplinary Mellon Writing Group Grant"
+    years: "2015–2016"
+    institution: "Society for the Humanities, Cornell University"
+  - name: "Sage Fellowship"
+    years: "2014–2015"
+    institution: "College of Arts and Sciences, Cornell University"
 
-- title: "Grants, Awards and Fellowships"
-  type: time_table
-  contents:
-    - title: "Carpenter Fellowship"
-      institution: Department of Government, Cornell University
-      year: "2021–2022"
-    - title: "Sage Fellowship"
-      institution: College of Arts and Sciences, Cornell University
-      year: "2020–2022"
-    - title: "Michele Sicca Research Grant"
-      institution: Cornell Institute for European Studies
-      year: "2017"
-    - title: "Supplemental Departmental Funding for Summer Research"
-      institution: Department of Government, Cornell University
-      year: "2017"
-    - title: "International Research Travel Grant"
-      institution: Mario Einaudi Center for International Studies
-      year: "2017"
-    - title: "Adam Smith Fellowship"
-      institution: The Mercatus Center at George Mason University
-      year: "2016–2017"
-    - title: "Best Paper Award for Second-Year Graduate Students"
-      institution: Department of Government, Cornell University
-      year: "2016"
-      description: "‘Reporting and Rendering: Constituting Monetary and Political Orders in Alexander Hamilton’s “Report on Public Credit”’"
-    - title: "Graduate Reading Group Grant"
-      institution: Institute for Comparative Modernities, Cornell University
-      year: "2015–2017"
-    - title: "Brett de Bary Interdisciplinary Mellon Writing Group Grant"
-      institution: Society for the Humanities, Cornell University
-      year: "2015–2016"
-    - title: "Sage Fellowship"
-      institution: College of Arts and Sciences, Cornell University
-      year: "2014–2015"
-
-- title: "Teaching Experience"
-  type: time_table
-  contents:
-    - title: "Adjunct Professor"
-      institution: Department of Government, Georgetown University
-      year: "2023–2025"
-      description: |
-        GOVT 4816 The Politics of Race and Capitalism  
-        GOVT 3828 Can't Pay, Won't Pay: The Politics of Debt
-    - title: "Instructor"
-      institution: Department of Government, Cornell University
-      year: "2017, 2018"
-      description: |
-        GOVT 1101 Power and Politics: Just Words? Writings About Justice and Inequality (First-Year Writing Seminar)
-    - title: "Teaching Assistant"
-      institution: Department of Government, Cornell University
-      year: "2015–2022"
-      description: |
-        GOVT 1111 Introduction to American Politics  
-        GOVT 3012 The Politics of Poverty in the U.S  
-        GOVT 3032 The Politics of Public Policy in the U.S  
-        GOVT 3082 American Political Campaigns  
-        GOVT 3112 The U.S. Congress and the Legislative Process  
-        GOVT 3141 Prisons
-    - title: "Adjunct Instructor"
-      institution: Belmont Abbey College, Charlotte, NC
-      year: "2014"
-      description: |
-        PO211 Classic Texts I: Ancient and Medieval  
-        PO212 Classic Texts II: Renaissance and Modern
-
-- title: "Conferences and Workshops"
-  type: list
-  contents:
-    - "Politics, Sandwiches, and Comments Workshop, Cornell University (2020)"
-    - "American Political Science Association Annual Meeting (2019, 2020)"
-    - "Association for Political Theory Annual Conference (2018, 2020)"
-    - "The Political Theory Workshop, Cornell University (2019)"
-    - "Histories of Capitalism 2.0, Cornell University (2017)"
-
-- title: "Academic Service"
-  type: time_table
-  contents:
-    - title: "Graduate Editorial Board Member"
-      institution: *Diacritics*
-      year: "2021–2022"
-    - title: "Graduate Student Coordinator, Political Theory Workshop"
-      institution: Department of Government, Cornell University
-      year: "2017–2018"
-
-- title: "Research Experience"
-  type: time_table
-  contents:
-    - title: "Research Assistant"
-      institution: Department of Government, Cornell University
-      year: "2019–2021"
-      description: "Prof. Alexander Livingston, for edited volume of James Tully's essays (Routledge 2022)"
-
-- title: "Skills"
-  type: list
-  contents:
-    - "Languages: French (reading), Spanish (intermediate)"
-    - "Technical: Applied AI tools for research and writing; prompt design; workflow optimization"
-    - "Pedagogical: Teaching on AI, human–AI ethics, and AI in educational practice"
+skills:
+  languages: 
+    - "French (reading)"
+    - "Spanish (intermediate)"
+  technical:
+    - "Applied AI tools for research and writing"
+    - "Prompt design"
+    - "Workflow optimization"
+  pedagogical:
+    - "Teaching on AI, human–AI ethics, and AI in educational practice"
