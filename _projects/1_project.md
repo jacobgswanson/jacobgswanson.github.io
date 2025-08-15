@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Made by Money: Politics, Economy, and the Self in Capitalist Modernity
 description: with background image
-img: assets/img/12.jpg
+img: Haring2.jpg
 importance: 1
 category: work
 related_publications: true
