@@ -23,3 +23,14 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Make publication links stand out */
+.publications a {
+  text-decoration: underline;
+  color: #0056b3; /* nice deep blue */
+}
+
+.publications a:hover {
+  color: #003d80; /* darker blue on hover */
+  text-decoration: underline;
+}
