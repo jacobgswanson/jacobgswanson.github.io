@@ -6,7 +6,7 @@ subtitle: <a href="https://politicaleconomy.columbia.edu/directory/jacob-swanson
 
 profile:
   align: right
-  image: Jake.jpg
+  image: Jake.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>125 West 125th Street, 3FL</p>
