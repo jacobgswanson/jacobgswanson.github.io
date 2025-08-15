@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ## Georgetown University, Department of Government (2023–2025)
-**Adjunct Professor**  
+**[Adjunct Professor](https://gufaculty360.georgetown.edu/s/faculty-teaching?id=0031Q00002feeHQQAY)**
 - GOVT 4816 *The Politics of Race and Capitalism*  
 - GOVT 3828 *Can’t Pay, Won’t Pay: The Politics of Debt*
 
