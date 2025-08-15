@@ -2,11 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at Georgetown University, Cornell University, and Belmont Abbey College.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Georgetown University, Department of Government (2023–2025)
+**Adjunct Professor**  
+- GOVT 4816 *The Politics of Race and Capitalism*  
+- GOVT 3828 *Can’t Pay, Won’t Pay: The Politics of Debt*
 
-Organize your courses by years, topics, or universities, however you like!
+## Cornell University, Department of Government (2015–2022)
+**Instructor**  
+- GOVT 1101 *Power and Politics: Just Words? Writings About Justice and Inequality* (First-Year Writing Seminar)
+
+**Teaching Assistant**  
+- GOVT 1111 *Introduction to American Politics*  
+- GOVT 3012 *The Politics of Poverty in the U.S.*  
+- GOVT 3032 *The Politics of Public Policy in the U.S.*  
+- GOVT 3082 *American Political Campaigns*  
+- GOVT 3112 *The U.S. Congress and the Legislative Process*  
+- GOVT 3141 *Prisons*
+
+## Belmont Abbey College (2014)
+**Adjunct Instructor**  
+- PO211 *Classic Texts I: Ancient and Medieval*  
+- PO212 *Classic Texts II: Renaissance and Modern*
