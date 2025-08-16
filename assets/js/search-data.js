@@ -437,7 +437,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-book-project-made-by-money",
-          title: 'Book Project: _Made by Money_',
+          title: 'Book Project: Made by Money',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Book%20Project/";
