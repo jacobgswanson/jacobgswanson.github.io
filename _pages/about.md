@@ -27,7 +27,7 @@ latest_posts:
 </style>
 
 <p>
-Welcome! I’m a political theorist who writes about the intersection of political economy, democracy, and social theory. I'm currently a
+Hello! Welcome! I’m a political theorist who writes about the intersection of political economy, democracy, and social theory. I'm currently a
 <a href="https://politicaleconomy.columbia.edu/directory/jacob-swanson" target="_blank" rel="noopener">postdoctoral research scholar</a>
 at the Center for Political Economy at Columbia University. My book project and recent research focus on the politics of money and wealth; I also study the shifting relationships between finance, mass incarceration, race, and gender. Some of this work has been published in
 <a href="https://doi.org/10.1177/00905917231204891" class="pink-link" target="_blank" rel="noopener"><em>Political Theory</em></a>
