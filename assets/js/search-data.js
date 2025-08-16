@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "coming soon!",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -420,7 +420,7 @@ ninja.data = [{
           title: 'Book Project: Made by Money',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Book%20Project/";
+              window.location.href = "/projects/book%20project/";
             },},{id: "projects-finance-amp-mass-incarceration",
           title: 'Finance &amp;amp; Mass Incarceration',
           description: "",
@@ -428,12 +428,12 @@ ninja.data = [{
               window.location.href = "/projects/finance%20&%20mass%20incarceration/";
             },},{id: "projects-liquidity",
           title: 'Liquidity',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liquidity/";
             },},{id: "projects-money-amp-politics",
           title: 'Money &amp;amp; Politics',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/money%20&%20politics/";
             },},{
