@@ -416,31 +416,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-finance-amp-mass-incarceration",
-          title: 'Finance &amp;amp; Mass Incarceration',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-2",
-          title: 'Project 2',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-book-project-made-by-money",
+          section: "News",},{id: "projects-book-project-made-by-money",
           title: 'Book Project: Made by Money',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Book%20Project/";
+            },},{id: "projects-finance-amp-mass-incarceration",
+          title: 'Finance &amp;amp; Mass Incarceration',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/finance%20&%20mass%20incarceration/";
+            },},{id: "projects-liquidity",
+          title: 'Liquidity',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liquidity/";
+            },},{id: "projects-money-amp-politics",
+          title: 'Money &amp;amp; Politics',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/money%20&%20politics/";
             },},{
         id: 'social-email',
         title: 'email',
