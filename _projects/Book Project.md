@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Book Project: _Made by Money_" 
+title: "Book Project: <em>Made by Money</em>"
 description: with background image
 img: /assets/img/Haring2.jpg
 importance: 1
