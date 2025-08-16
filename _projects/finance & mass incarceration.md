@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Finance & Mass Incarceration
-description: 
+description: null
 img: null
 importance: 3
 category: null

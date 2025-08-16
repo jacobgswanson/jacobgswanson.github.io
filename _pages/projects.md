@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: coming soon! 
+description: null 
 nav: true
 nav_order: 3
 display_categories: null

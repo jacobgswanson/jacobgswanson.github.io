@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Money & Politics 
-description: with background image
+description: null
 img: null
 importance: 2
 category: null

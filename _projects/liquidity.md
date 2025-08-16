@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liquidity
-description: with background image
+description: null
 img: null
 importance: 4
 category: null
