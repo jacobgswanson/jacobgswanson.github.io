@@ -9,9 +9,8 @@ profile:
   image: Jake.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>605 West 125th Street, 3FL</p>
-    <p>New York City, New York 10027</p>
-
+    <p>js6978@columbia.edu</p>
+    
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
