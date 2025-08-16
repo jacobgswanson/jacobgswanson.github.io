@@ -2,9 +2,9 @@
 layout: page
 title: Liquidity
 description: null
-img: null
+img: assets/img/beuys3.jpg
 importance: 4
-category: assets/img/beuys3.jpg
+category: null
 related_publications: true
 published: true
 ---
