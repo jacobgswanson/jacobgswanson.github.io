@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-book-project-made-by-money",
           title: 'Book Project: Made by Money',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Book%20Project/";
             },},{id: "projects-finance-amp-mass-incarceration",
