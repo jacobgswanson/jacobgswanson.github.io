@@ -4,7 +4,7 @@ title: Liquidity
 description: null
 img: null
 importance: 4
-category: null
+category: assets/img/beuys3.jpg
 related_publications: true
 published: true
 ---
