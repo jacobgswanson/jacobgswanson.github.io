@@ -426,11 +426,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/finance%20&%20mass%20incarceration/";
-            },},{id: "projects-liquidity",
-          title: 'Liquidity',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/liquidity/";
             },},{id: "projects-money-amp-politics",
           title: 'Money &amp;amp; Politics',
           description: "",
