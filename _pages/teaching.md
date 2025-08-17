@@ -14,7 +14,7 @@ nav_order: 6
 
 ### Cornell University, Department of Government (2015–2022)
 **Instructor**  
-- GOVT 1101 *Power and Politics: Just Words? Writings About Justice and Inequality* (First-Year Writing Seminar)
+- GOVT 1101 *Power and Politics: Just Words? Writing About Justice and Inequality* (First-Year Writing Seminar)
 
 **Teaching Assistant**  
 - GOVT 1111 *Introduction to American Politics*  
