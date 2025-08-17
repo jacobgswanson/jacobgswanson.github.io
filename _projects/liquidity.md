@@ -5,7 +5,7 @@ description: null
 img: assets/img/beuys3.jpg
 importance: 4
 category: null
-related_publications: true
+related_publications: false
 published: true
 ---
 
