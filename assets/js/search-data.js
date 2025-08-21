@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liquidity/";
-            },},{id: "projects-money-amp-politics",
-          title: 'Money &amp;amp; Politics',
+            },},{id: "projects-works-in-progress",
+          title: 'Works-in-Progress',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/money%20&%20politics/";
