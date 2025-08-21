@@ -435,7 +435,7 @@ ninja.data = [{
           title: 'Works-in-Progress',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/money%20&%20politics/";
+              window.location.href = "/projects/works-in-progress/";
             },},{
         id: 'social-email',
         title: 'email',
