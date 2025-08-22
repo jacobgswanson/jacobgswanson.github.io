@@ -3,7 +3,7 @@ layout: page
 title: Finance & Mass Incarceration
 description: null
 img: assets/img/moneytree.jpg
-importance: 3
+importance: 2
 category: null
 ---
 
