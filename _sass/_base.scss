@@ -1439,6 +1439,7 @@ figure.cover {
   background: rgba(0, 0, 0, 0.3);
   padding: 2px 4px;
   border-radius: 50%;
+  display: inline-block;
 }
 
 .credit-tooltip {
@@ -1452,10 +1453,14 @@ figure.cover {
   font-size: 11px;
   white-space: nowrap;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
   z-index: 10;
+  pointer-events: none;
 }
 
 .credit-info-icon:hover .credit-tooltip {
   opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
