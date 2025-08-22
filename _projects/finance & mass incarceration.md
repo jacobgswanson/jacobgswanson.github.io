@@ -3,7 +3,7 @@ layout: page
 title: Finance & Mass Incarceration
 description: null
 img: assets/img/theroot.jpg
-image_credit: _The Root_ by Mark Wagner
+image_credit: <em>The Root,/em> by Mark Wagner
 importance: 2
 category: null
 ---

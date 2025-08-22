@@ -3,7 +3,7 @@ layout: page
 title: Works-in-Progress 
 description: null
 img: assets/img/robert-dowd1.jpg
-image_credit: _Canceled Fifty_ by Robert Dowd (1964)
+image_credit: <em>Canceled Fifty</em> by Robert Dowd (1964)
 importance: 3
 category: null
 related_publications: false

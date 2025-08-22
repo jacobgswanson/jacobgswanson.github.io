@@ -3,7 +3,7 @@ layout: page
 title: "Book Project: <em>Made by Money</em>"
 description: null
 img: assets/img/warhol4fr.jpg
-image_credit: _Dollar Sign_ by Andy Warhol (1981)
+image_credit: <em>Dollar Sign</em> by Andy Warhol (1981)
 importance: 1
 category: null
 related_publications: false
