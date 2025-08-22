@@ -432,7 +432,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/liquidity/";
             },},{id: "projects-works-in-progress",
-          title: 'Works-in-Progress',
+          title: 'Works in Progress',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/works-in-progress/";
