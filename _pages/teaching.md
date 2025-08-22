@@ -9,8 +9,8 @@ nav_order: 6
 
 ### Georgetown University, Department of Government (2023–2025)
 **[Adjunct Professor](https://gufaculty360.georgetown.edu/s/faculty-teaching?id=0031Q00002feeHQQAY)**
-- GOVT 4816 *The Politics of Race and Capitalism*  
-- GOVT 3828 *Can’t Pay, Won’t Pay: The Politics of Debt*
+- GOVT 4816 *The Politics of Race and Capitalism* [[syllabus]({{ '/assets/pdf/GOVT_4816__Politics_of_Race_and_Capitalism.pdf' | relative_url }})]
+- GOVT 3828 *Can't Pay, Won't Pay: The Politics of Debt* [[syllabus]({{ '/assets/pdf/GOVT_3828__The_Politics_of_Debt__Spring_2025_.pdf' | relative_url }})]
 
 ### Cornell University, Department of Government (2015–2022)
 **Instructor**  
