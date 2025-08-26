@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 <p>
-  Download my CV <a href="/assets/files/Swanson_CV.pdf" target="_blank">here</a>.
+<a href="/assets/files/Swanson_CV.pdf" target="_blank">Download</a>.
 </p>
 
 <div style="margin-top: 20px;">
