@@ -18,6 +18,19 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.img %}
+    <div class="project-footer-image">
+      {%
+        include figure.liquid
+        loading="eager"
+        path=page.img
+        sizes="300px"
+        alt="project thumbnail"
+        width="300"
+      %}
+    </div>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">

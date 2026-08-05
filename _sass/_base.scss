@@ -666,43 +666,34 @@ footer.sticky-bottom {
     text-decoration: none;
 
     &:hover {
-      .card-title {
+      .project-title {
         color: var(--global-theme-color);
       }
     }
   }
 
-  .card {
-    background-color: transparent;
-    border: none;
-    box-shadow: none;
+  .project-list-item {
+    padding: 2rem 0;
 
-    &.hoverable:hover {
-      box-shadow: none;
-    }
-
-    img {
-      width: 100%;
+    a {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
     }
   }
 
-  .info-icon {
-    opacity: 0;
-    transition: opacity 0.2s ease;
+  .project-thumb {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
   }
 
-  .position-relative:hover .info-icon {
-    opacity: 1;
-  }
-
-  .col {
-    padding-bottom: 3rem;
-  }
-
-  .grid-sizer,
-  .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+  .project-title {
+    font-size: 1.75rem;
+    color: var(--global-text-color);
+    margin: 0;
   }
 
   h2.category {
@@ -712,6 +703,19 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+  }
+}
+
+// Project detail page image
+
+.project-footer-image {
+  text-align: center;
+  margin-top: 3rem;
+
+  img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
   }
 }
 
