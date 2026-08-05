@@ -32,7 +32,7 @@ Welcome! I’m a political theorist who writes about the intersection of politic
 at the Center for Political Economy at Columbia University. My book project and recent research focus on the politics of money and wealth; I also study the shifting relationships between finance, mass incarceration, race, and gender. Some of this work has been published in
 <a href="https://doi.org/10.1177/00905917231204891" class="pink-link" target="_blank" rel="noopener"><em>Political Theory</em></a>
 (<a href="https://doi.org/10.1177/0090591720980472" target="_blank" rel="noopener">also here</a>),
-<em>Daedalus</em> (forthcoming),
+<a href="https://doi.org/10.1162/DAED.a.965" class="pink-link" target="_blank" rel="noopener"><em>Daedalus</em></a>,
 <a href="https://doi.org/10.1017/S1537592721002218" class="pink-link" target="_blank" rel="noopener"><em>Perspectives on Politics</em></a>,
 and the
 <a href="https://escholarship.org/uc/item/7cg3q309" class="pink-link" target="_blank" rel="noopener"><em>UCLA Criminal Justice Law Review</em></a>.
