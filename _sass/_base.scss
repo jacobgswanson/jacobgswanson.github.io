@@ -673,13 +673,30 @@ footer.sticky-bottom {
   }
 
   .card {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+
+    &.hoverable:hover {
+      box-shadow: none;
+    }
+
     img {
       width: 100%;
     }
   }
 
+  .info-icon {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+
+  .position-relative:hover .info-icon {
+    opacity: 1;
+  }
+
   .col {
-    padding-bottom: 1rem;
+    padding-bottom: 3rem;
   }
 
   .grid-sizer,
